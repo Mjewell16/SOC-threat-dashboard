@@ -1,5 +1,9 @@
 venv/
 __pycache__/
+*.pyc
 .env
 .DS_Store
-*.pyc
+
+# Local credentials - never commit
+.streamlit/secrets.toml
+*.zip
