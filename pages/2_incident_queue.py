@@ -23,8 +23,6 @@ from utils.incidents import (
 )
 
 
-
-
 load_styles()
 
 st.title("Incident Queue")

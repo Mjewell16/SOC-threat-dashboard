@@ -6,4 +6,3 @@ __pycache__/
 
 # Local credentials - never commit
 .streamlit/secrets.toml
-*.zip
